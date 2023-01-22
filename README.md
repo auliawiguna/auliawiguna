@@ -1,13 +1,11 @@
 <h1 align="center">Hello world 👋, I'm Ahmad Aulia Wiguna</h1>
-<h3 align="center">I am a web developer from Indonesia who is experienced in building websites/web apps using PHP (Laravel, Yii2, Codeigniter, Lumen), Node.js, Nestjs (typescript), frontend using Laravel Blade, VueJS as part of Laravel, NextJS. Familiar with Linux environment. Strong experience using MariaDB, MySQL, and Redis. Adequate experience using PostgreSQL, MongoDB, and ElasticSearch. Familiar with Gitlab, Github, and Bitbucket as Git Repository.</h3>
+<h4 align="center">No fancy super powers. Only an ability to convert double-shot espresso into meaningful codes.</h4>
+<h4 align="center">Will code for food.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=auliawiguna&label=Profile%20views&color=0e75b6&style=flat" alt="auliawiguna" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=auliawiguna" alt="auliawiguna" /></a> </p>
 
-- 🔭 I’m currently working in **SoftwareSeni Australia**
-
-- 🌱 I’m currently learning **Nestjs, Golang, Typescript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
